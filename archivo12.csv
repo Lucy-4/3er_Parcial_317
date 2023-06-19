@@ -1,0 +1,7 @@
+CurrencyAlternateKey;CurrencyName;ScenarioName
+USS;United States Dollar;Actual
+EUE;Euro;Budget
+JPP;Japanese Yen;Forecast
+BBB;British Pound;Actual
+AAA;Canadian Dollar;Budget
+;;Forecast
